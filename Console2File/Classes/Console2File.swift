@@ -7,14 +7,14 @@
 
 import Foundation
 
-class Console2File {
+public class Console2File {
     
     // to log even when a device is not connected to xcode
     // it generates a file that you can then download from the Organizer
     // select Devices -> select device -> select app ->  Dowload container
     // after you can able show the content of file and you navigate
     // to Document folder for get the log file.
-    static func start() {
+    public static func start() {
         
         #if DEBUG // only DEBUG mode
         

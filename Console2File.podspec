@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "Console2File"
-    s.version          = "1.0.0"
+    s.version          = "1.0.1"
     s.summary          = "Console2File to log even when a device is not connected to Xcode."
 
     s.homepage         = "https://github.com/priore/Console2File"
