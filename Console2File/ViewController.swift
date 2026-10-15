@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  ConsoleoFile
 //
-//  Created by Danilo Priore on 26/08/18.
-//  Copyright © 2018 Danilo Priore. All rights reserved.
+//  Created by Priore on 26/08/18.
+//  Copyright © 2018 Priore. All rights reserved.
 //
 
 import UIKit
